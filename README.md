@@ -7,7 +7,7 @@ const juanCarlos = {
 
   pronouns: 'He' | 'Him',
   code: ['Javascript','HTML', 'CSS', 'Python', 'Java', 'C++', 'C', 'Visual Basic'], 
-  areas: ['Mechatronics', 'Electronics'],
+  areas: ['Mechatronics', 'Electronics', 'Automation', 'Control'],
   
 }
 ```
