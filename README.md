@@ -6,8 +6,11 @@
 const juanCarlos = {
 
   pronouns: 'He' | 'Him',
-  code: ['Javascript','HTML', 'CSS', 'Python', 'Java', 'C++', 'C', 'Visual Basic'], 
+  code: ['Javascript','HTML', 'CSS', 'Python', 'Java', 'C++', 'C', 'Visual Basic', 'Arduino', 'VHDL'], 
   areas: ['Mechatronics', 'Electronics', 'Automation', 'Control'],
+  tools: ['SolidWorks', 'LabView', 'MATLAB'],
+  languages: ['English', 'French(TCF A2)'],
+  certification: ['Certified LabVIEW Associate Developer (CLAD)']
   
 }
 ```
